@@ -26,8 +26,7 @@
 | Project | What it does | Stack | Link |
 |---|---|---|---|
 | 🌐 IP Analyzer & Visualizer | Helps students visualize IP addresses, subnets & network ranges | HTML/CSS/JS | [Live ↗](https://swaminathan-a.github.io/IP-Visualizer-and-Analyzer/) |
-| 🎯 Deep Focus | Chrome extension to block distracting sites during focus sessions | JS, Chrome API | repo |
-| 📚 ScanEd | Platform to sort, filter & discover the best notes and lectures | HTML/CSS/JS | [GitHub ↗](https://github.com/pov3sha/ScanEd) |
+| 🎯 Deep Focus | Chrome extension to block distracting sites during focus sessions | JS, Chrome API | [GitHub ↗](https://github.com/prashannt31/DeepFocus) || 📚 ScanEd | Platform to sort, filter & discover the best notes and lectures | HTML/CSS/JS | [GitHub ↗](https://github.com/pov3sha/ScanEd) |
 | 💊 SmartH | Health tracking app using DAA algorithms | Python | [GitHub ↗](https://github.com/mahirasiddiqui2106-design/smart-h) |
 
 ---
