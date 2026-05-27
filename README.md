@@ -5,10 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prashant-pareek-753013333">LinkedIn</a> •
-  <a href="mailto:prashaanntpareek@gmail.com">Email</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=prashannt31&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ### about me
