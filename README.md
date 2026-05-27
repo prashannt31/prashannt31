@@ -5,8 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashannt31&show_icons=true&theme=tokyonight&hide_border=true" />
+  <a href="https://www.linkedin.com/in/prashannt31">LinkedIn</a> •
+  <a href="mailto:prashaanntpareek@gmail.com">Email</a>
 </p>
+
 ---
 
 ### about me
@@ -41,5 +43,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashannt31&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prashannt31&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
