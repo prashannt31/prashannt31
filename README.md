@@ -24,7 +24,7 @@
 
 | Project | What it does | Stack | Link |
 |---|---|---|---|
-| ☕ L-Essence Coffee | Premium coffee shop website with an interactive storefront, product collections & admin dashboard for inventory and order management | Next.js, React, TypeScript, Prisma | [Live ↗️](https://l-essence-coffee.vercel.app) · [GitHub ↗️](https://github.com/prashannt31/l-essence-coffee) |
+| ☕ L-Essence Coffee | Premium coffee shop website with an interactive storefront, product collections & admin dashboard for inventory and order management | Next.js, React, TypeScript, Prisma | [Live ](https://l-essence-coffee.vercel.app) · [GitHub ](https://github.com/prashannt31/l-essence-coffee) |
 | 🌐 IP Analyzer & Visualizer | Helps students visualize IP addresses, subnets & network ranges | HTML/CSS/JS | [Live ↗](https://swaminathan-a.github.io/IP-Visualizer-and-Analyzer/) |
 | 🎯 Deep Focus | Chrome extension to block distracting sites during focus sessions | JS, Chrome API | [GitHub ↗](https://github.com/prashannt31/DeepFocus) |
 | 📚 ScanEd | Platform to sort, filter & discover the best notes and lectures | HTML/CSS/JS | [GitHub ↗](https://github.com/pov3sha/ScanEd) |
