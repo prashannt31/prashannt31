@@ -31,6 +31,7 @@ Project	What it does	Stack	Link
 
 currently
 
+☕  contributing to a 3D frontend for a coffee brand (Obscura)
 📖  grinding DSA
 🔍  open to internship opportunities
 
