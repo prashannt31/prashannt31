@@ -15,7 +15,6 @@
 
 - 🔧 I build things that solve real problems — sometimes they even work
 - 💻 Comfortable with **C++, Python, Java, HTML/CSS/JS**
-- 🌱 Currently learning frontend properly + working on a 3D coffee brand site
 - 🏛️ Board Member @ **Fraternity of Young Innovators (FYI)** — VIT Chennai
 - 🎯 Looking for a **dev or PM internship** this summer
 
